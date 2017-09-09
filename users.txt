@@ -1,0 +1,7 @@
+ABA1 12345 Aahan Aggarwal
+SBK1 68696 Samarth Kapur
+DGS1 90320 Darshna Sadhnani
+ASM1 11619 Arjun Mahajan
+GPM1 96969 Gautam Malhotra
+DDT1 64739 Dhruv Taware
+KKR1 23092 Kunal Ranger
